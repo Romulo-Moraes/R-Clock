@@ -1,6 +1,6 @@
 <div align="center">
     <h1>R-Clock</h1>
-    <img src="./assets/Normal.png">
+    <img width="600px" src="./assets/Normal.png">
     <h1></h1>
 </div>
 
@@ -13,8 +13,9 @@ The program has a small version of the clock, if you wan't put the display in a 
 ```sh
 ./R-Clock -s
 ```
-
-<img src="./assets/Small.png">
+<div align="center">
+    <img width="600px" src="./assets/Small.png">
+</div>
 
 ## Goodbye
 The project already has a compiled program in the file tree, but re-compile it, if you guess necessary.
