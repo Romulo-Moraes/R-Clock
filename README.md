@@ -5,7 +5,7 @@
 </div>
 
 ## What's that
-R-Clock is a clock for terminal interfaces, this will get the week day, month day, month, year, hours, minutes and opitionally seconds from your system. like a normal clock
+R-Clock is a clock for terminal interfaces, this will get the week day, month day, month, year, hours, minutes and optionally seconds from your system. like a normal clock
 
 ## Small version
 The program has a small version of the clock, if you wan't put the display in a small tmux or something like that. To use call the program with the first flag as "-s". This version will ignore the seconds, and will show the rest in display.
